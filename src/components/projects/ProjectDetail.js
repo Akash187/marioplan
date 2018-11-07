@@ -11,7 +11,7 @@ const ProjectDetail = (props) => {
           </p>
         </div>
         <div className="card-action grey lighten-4">
-          <div>Posted by The Project Planet</div>
+          <div>PostedBy The Project Planet</div>
           <div>3rd November, 3AM</div>
         </div>
       </div>
