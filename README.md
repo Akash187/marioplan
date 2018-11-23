@@ -1,3 +1,7 @@
+# MarioPlan (https://marioplan-72ef5.firebaseapp.com/)
+A full stack planning app using react, redux and Firebase(Firestore, Cloud Function, Authentication and hosting).
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
